@@ -397,9 +397,9 @@ const MainFeature = ({
                   </div>
 
                   <div className="bg-surface-50 rounded-lg p-3">
-                    <p className="text-sm text-surface-600">
+<p className="text-sm text-surface-600">
                       New Stock Level: <span className="font-semibold text-surface-900">
-                        {Math.max(0, (selectedProduct.currentStock || 0) + adjustmentData.quantity)}
+                        {Math.max(0, (selectedProduct.current_stock || 0) + adjustmentData.quantity)}
                       </span>
                     </p>
                   </div>

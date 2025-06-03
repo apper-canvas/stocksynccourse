@@ -40,7 +40,7 @@ const Home = () => {
   const lowStockCount = products?.filter(p => (p?.currentStock || 0) <= (p?.reorderPoint || 0)).length || 0
   const totalValue = products?.reduce((sum, p) => sum + ((p?.currentStock || 0) * (p?.unitPrice || 0)), 0) || 0
 
-  const getStockStatus = (current, reorder) => {
+const getStockStatus = (current, reorder) => {
     const currentStock = current || 0
     const reorderPoint = reorder || 0
     

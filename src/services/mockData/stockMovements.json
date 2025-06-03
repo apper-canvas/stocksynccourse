@@ -1,0 +1,212 @@
+[
+  {
+    "id": "1",
+    "productId": "1",
+    "type": "in",
+    "quantity": 50,
+    "reason": "Purchase Order",
+    "timestamp": "2024-01-15T10:30:00Z",
+    "userId": "user-001",
+    "notes": "Initial stock purchase from Global Coffee Co."
+  },
+  {
+    "id": "2",
+    "productId": "1",
+    "type": "out",
+    "quantity": 5,
+    "reason": "Sale",
+    "timestamp": "2024-01-16T14:20:00Z",
+    "userId": "user-002",
+    "notes": "Sold to customer via online order"
+  },
+  {
+    "id": "3",
+    "productId": "2",
+    "type": "in",
+    "quantity": 30,
+    "reason": "Purchase Order",
+    "timestamp": "2024-01-16T09:15:00Z",
+    "userId": "user-001",
+    "notes": "Bulk purchase from Organic Farms Ltd."
+  },
+  {
+    "id": "4",
+    "productId": "2",
+    "type": "out",
+    "quantity": 18,
+    "reason": "Sale",
+    "timestamp": "2024-01-18T11:30:00Z",
+    "userId": "user-003",
+    "notes": "Multiple retail sales"
+  },
+  {
+    "id": "5",
+    "productId": "3",
+    "type": "in",
+    "quantity": 25,
+    "reason": "Purchase Order",
+    "timestamp": "2024-01-17T14:20:00Z",
+    "userId": "user-001",
+    "notes": "Seasonal honey delivery"
+  },
+  {
+    "id": "6",
+    "productId": "4",
+    "type": "in",
+    "quantity": 40,
+    "reason": "Purchase Order",
+    "timestamp": "2024-01-18T11:45:00Z",
+    "userId": "user-001",
+    "notes": "Mediterranean Oils monthly delivery"
+  },
+  {
+    "id": "7",
+    "productId": "4",
+    "type": "out",
+    "quantity": 5,
+    "reason": "Sale",
+    "timestamp": "2024-01-20T15:10:00Z",
+    "userId": "user-002",
+    "notes": "Premium cooking oil sale"
+  },
+  {
+    "id": "8",
+    "productId": "5",
+    "type": "in",
+    "quantity": 100,
+    "reason": "Purchase Order",
+    "timestamp": "2024-01-19T16:30:00Z",
+    "userId": "user-001",
+    "notes": "Large pasta shipment from Italy"
+  },
+  {
+    "id": "9",
+    "productId": "5",
+    "type": "out",
+    "quantity": 33,
+    "reason": "Sale",
+    "timestamp": "2024-01-22T12:45:00Z",
+    "userId": "user-003",
+    "notes": "Weekly pasta sales"
+  },
+  {
+    "id": "10",
+    "productId": "6",
+    "type": "in",
+    "quantity": 25,
+    "reason": "Purchase Order",
+    "timestamp": "2024-01-20T08:15:00Z",
+    "userId": "user-001",
+    "notes": "Spice World monthly order"
+  },
+  {
+    "id": "11",
+    "productId": "6",
+    "type": "out",
+    "quantity": 7,
+    "reason": "Sale",
+    "timestamp": "2024-01-23T16:20:00Z",
+    "userId": "user-002",
+    "notes": "Specialty salt sales"
+  },
+  {
+    "id": "12",
+    "productId": "7",
+    "type": "in",
+    "quantity": 50,
+    "reason": "Purchase Order",
+    "timestamp": "2024-01-21T13:40:00Z",
+    "userId": "user-001",
+    "notes": "Premium tea collection restock"
+  },
+  {
+    "id": "13",
+    "productId": "7",
+    "type": "out",
+    "quantity": 8,
+    "reason": "Sale",
+    "timestamp": "2024-01-24T10:15:00Z",
+    "userId": "user-003",
+    "notes": "Tea enthusiast bulk purchase"
+  },
+  {
+    "id": "14",
+    "productId": "8",
+    "type": "in",
+    "quantity": 20,
+    "reason": "Purchase Order",
+    "timestamp": "2024-01-22T10:25:00Z",
+    "userId": "user-001",
+    "notes": "Nutty Delights weekly delivery"
+  },
+  {
+    "id": "15",
+    "productId": "8",
+    "type": "out",
+    "quantity": 12,
+    "reason": "Sale",
+    "timestamp": "2024-01-25T14:30:00Z",
+    "userId": "user-002",
+    "notes": "Health food store order"
+  },
+  {
+    "id": "16",
+    "productId": "9",
+    "type": "in",
+    "quantity": 80,
+    "reason": "Purchase Order",
+    "timestamp": "2024-01-23T15:10:00Z",
+    "userId": "user-001",
+    "notes": "Grain Masters bulk rice shipment"
+  },
+  {
+    "id": "17",
+    "productId": "9",
+    "type": "out",
+    "quantity": 25,
+    "reason": "Sale",
+    "timestamp": "2024-01-26T11:45:00Z",
+    "userId": "user-003",
+    "notes": "Restaurant supply order"
+  },
+  {
+    "id": "18",
+    "productId": "10",
+    "type": "in",
+    "quantity": 30,
+    "reason": "Purchase Order",
+    "timestamp": "2024-01-24T12:55:00Z",
+    "userId": "user-001",
+    "notes": "Chocolate Crafters premium collection"
+  },
+  {
+    "id": "19",
+    "productId": "10",
+    "type": "out",
+    "quantity": 7,
+    "reason": "Sale",
+    "timestamp": "2024-01-27T16:20:00Z",
+    "userId": "user-002",
+    "notes": "Gourmet chocolate sales"
+  },
+  {
+    "id": "20",
+    "productId": "15",
+    "type": "in",
+    "quantity": 25,
+    "reason": "Purchase Order",
+    "timestamp": "2024-01-29T13:30:00Z",
+    "userId": "user-001",
+    "notes": "Herbal tea blend restock"
+  },
+  {
+    "id": "21",
+    "productId": "15",
+    "type": "out",
+    "quantity": 18,
+    "reason": "Sale",
+    "timestamp": "2024-01-30T09:15:00Z",
+    "userId": "user-003",
+    "notes": "Wellness store bulk order"
+  }
+]

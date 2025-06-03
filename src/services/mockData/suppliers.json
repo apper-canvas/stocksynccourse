@@ -1,0 +1,182 @@
+[
+  {
+    "id": "1",
+    "name": "Global Coffee Co.",
+    "contactInfo": {
+      "email": "orders@globalcoffee.com",
+      "phone": "+1-555-0123",
+      "address": "123 Coffee Street, Bean City, BC 12345",
+      "contactPerson": "Maria Rodriguez"
+    },
+    "products": ["1"],
+    "leadTime": 7,
+    "paymentTerms": "Net 30",
+    "rating": 4.8,
+    "status": "active"
+  },
+  {
+    "id": "2",
+    "name": "Organic Farms Ltd.",
+    "contactInfo": {
+      "email": "supply@organicfarms.com",
+      "phone": "+1-555-0234",
+      "address": "456 Farm Road, Green Valley, GV 23456",
+      "contactPerson": "John Thompson"
+    },
+    "products": ["2", "9"],
+    "leadTime": 5,
+    "paymentTerms": "Net 15",
+    "rating": 4.9,
+    "status": "active"
+  },
+  {
+    "id": "3",
+    "name": "Mountain Bee Farm",
+    "contactInfo": {
+      "email": "honey@mountainbee.com",
+      "phone": "+1-555-0345",
+      "address": "789 Mountain Trail, Honey Hills, HH 34567",
+      "contactPerson": "Sarah Johnson"
+    },
+    "products": ["3"],
+    "leadTime": 10,
+    "paymentTerms": "Net 30",
+    "rating": 4.7,
+    "status": "active"
+  },
+  {
+    "id": "4",
+    "name": "Mediterranean Oils",
+    "contactInfo": {
+      "email": "orders@medoils.com",
+      "phone": "+1-555-0456",
+      "address": "321 Olive Grove, Mediterranean Coast, MC 45678",
+      "contactPerson": "Andreas Dimitriou"
+    },
+    "products": ["4"],
+    "leadTime": 14,
+    "paymentTerms": "Net 45",
+    "rating": 4.6,
+    "status": "active"
+  },
+  {
+    "id": "5",
+    "name": "Italian Foods Inc.",
+    "contactInfo": {
+      "email": "pasta@italianfoods.com",
+      "phone": "+1-555-0567",
+      "address": "654 Pasta Lane, Little Italy, LI 56789",
+      "contactPerson": "Giuseppe Rossi"
+    },
+    "products": ["5"],
+    "leadTime": 12,
+    "paymentTerms": "Net 30",
+    "rating": 4.5,
+    "status": "active"
+  },
+  {
+    "id": "6",
+    "name": "Spice World Ltd.",
+    "contactInfo": {
+      "email": "spices@spiceworld.com",
+      "phone": "+1-555-0678",
+      "address": "987 Spice Market, Flavor Town, FT 67890",
+      "contactPerson": "Raj Patel"
+    },
+    "products": ["6", "12"],
+    "leadTime": 8,
+    "paymentTerms": "Net 20",
+    "rating": 4.4,
+    "status": "active"
+  },
+  {
+    "id": "7",
+    "name": "Tea Gardens Co.",
+    "contactInfo": {
+      "email": "tea@teagardens.com",
+      "phone": "+1-555-0789",
+      "address": "147 Tea Plantation Road, Zen Valley, ZV 78901",
+      "contactPerson": "Yuki Tanaka"
+    },
+    "products": ["7", "15"],
+    "leadTime": 15,
+    "paymentTerms": "Net 30",
+    "rating": 4.8,
+    "status": "active"
+  },
+  {
+    "id": "8",
+    "name": "Nutty Delights",
+    "contactInfo": {
+      "email": "nuts@nuttydelights.com",
+      "phone": "+1-555-0890",
+      "address": "258 Nut Grove Avenue, Crunch City, CC 89012",
+      "contactPerson": "Amanda Wilson"
+    },
+    "products": ["8", "14"],
+    "leadTime": 6,
+    "paymentTerms": "Net 15",
+    "rating": 4.7,
+    "status": "active"
+  },
+  {
+    "id": "9",
+    "name": "Grain Masters",
+    "contactInfo": {
+      "email": "grains@grainmasters.com",
+      "phone": "+1-555-0901",
+      "address": "369 Grain Elevator Road, Wheat Fields, WF 90123",
+      "contactPerson": "Robert Chen"
+    },
+    "products": ["9"],
+    "leadTime": 4,
+    "paymentTerms": "Net 10",
+    "rating": 4.6,
+    "status": "active"
+  },
+  {
+    "id": "10",
+    "name": "Chocolate Crafters",
+    "contactInfo": {
+      "email": "chocolate@chocolatecrafters.com",
+      "phone": "+1-555-1012",
+      "address": "741 Cocoa Street, Sweet Town, ST 01234",
+      "contactPerson": "Claire Dubois"
+    },
+    "products": ["10"],
+    "leadTime": 9,
+    "paymentTerms": "Net 30",
+    "rating": 4.9,
+    "status": "active"
+  },
+  {
+    "id": "11",
+    "name": "Tropical Oils Ltd.",
+    "contactInfo": {
+      "email": "coconut@tropicaloils.com",
+      "phone": "+1-555-1123",
+      "address": "852 Palm Beach Road, Coconut Island, CI 12345",
+      "contactPerson": "Diego Martinez"
+    },
+    "products": ["11"],
+    "leadTime": 11,
+    "paymentTerms": "Net 30",
+    "rating": 4.3,
+    "status": "active"
+  },
+  {
+    "id": "12",
+    "name": "Canadian Maple Co.",
+    "contactInfo": {
+      "email": "syrup@canadianmaple.ca",
+      "phone": "+1-555-1234",
+      "address": "963 Maple Sugar Lane, Quebec Valley, QV 23456",
+      "contactPerson": "Jean-Pierre Lavoie"
+    },
+    "products": ["13"],
+    "leadTime": 13,
+    "paymentTerms": "Net 45",
+    "rating": 4.8,
+    "status": "active"
+  }
+]
